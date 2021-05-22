@@ -1,0 +1,17 @@
+Fri Feb 28 13:38:11 2020  
+Fri Feb 28 13:38:11 2020  
+Fri Feb 28 13:38:11 2020  Msieve v. 1.53 (SVN Unversioned directory)
+Fri Feb 28 13:38:11 2020  random seeds: d43a2bee 53ab22b2
+Fri Feb 28 13:38:11 2020  factoring 268887320029090028117214498253204095765884136483366193842361283776500643966781 (78 digits)
+Fri Feb 28 13:38:11 2020  no P-1/P+1/ECM available, skipping
+Fri Feb 28 13:38:11 2020  commencing quadratic sieve (78-digit input)
+Fri Feb 28 13:38:11 2020  using multiplier of 41
+Fri Feb 28 13:38:11 2020  using generic 32kb sieve core
+Fri Feb 28 13:38:11 2020  sieve interval: 12 blocks of size 32768
+Fri Feb 28 13:38:11 2020  processing polynomials in batches of 17
+Fri Feb 28 13:38:11 2020  using a sieve bound of 995381 (39176 primes)
+Fri Feb 28 13:38:11 2020  using large prime bound of 99538100 (26 bits)
+Fri Feb 28 13:38:11 2020  using trial factoring cutoff of 27 bits
+Fri Feb 28 13:38:11 2020  polynomial 'A' values have 10 factors
+Fri Feb 28 13:39:31 2020  19377 relations (12247 full + 7130 combined from 126729 partial), need 39272
+Fri Feb 28 13:39:31 2020  elapsed time 00:01:20
